@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_clima
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# APLICACION-MOVIL
+>>>>>>> 2d7bea55f935d26a10892ea372540660b4833873
