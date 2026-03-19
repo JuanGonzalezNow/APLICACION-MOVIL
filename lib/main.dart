@@ -25,7 +25,7 @@ class WeatherScreen extends StatelessWidget {
       backgroundColor: Colors.blue, // fondo azul
       body: const Center(
         child: Text(
-          "App Clima",
+          "Aplicacion",
           style: TextStyle(
             color: Colors.white,
             fontSize: 28,
